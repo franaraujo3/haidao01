@@ -1,9 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Francisco!
-## information systems student at University of the State of Amazonas
-## 🖥️ Front-end & mobile development student
-## 👁️ UX/UI
-## 🎨 Digital and game artist
+### 🎓 information systems student at University of the State of Amazonas
+### 🖥️ Front-end & mobile development student
+### 👁️ UX/UI
+### 🎨 Digital and game artist
 <div>
 <a href="https://www.linkedin.com/in/francisco-araujo-944867150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
