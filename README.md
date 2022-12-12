@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Francisco!
 ### 🎓 information systems student at University of the State of Amazonas
-### 🖥️ Front-end & mobile development student
+### 🖥️ Front-end & android development student
 ### 👁️ UX/UI
 ### 🎨 Digital and game artist
 <div>
